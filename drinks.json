@@ -4,315 +4,315 @@
     "category": "On Draught",
     "kind": "Irish dry stout",
     "description": "Creamy, smooth Irish stout with roasted malt notes.",
-    "photo": "photo-guinness-draught.jpg"
+    "image": "photo-guinness-draught.jpg"
   },
   {
     "name": "Corona Light",
     "category": "Bottles & Cans",
     "kind": "Beer",
     "description": "Ask your host about the current serving.",
-    "photo": "photo-corona-light.jpg"
+    "image": "photo-corona-light.jpg"
   },
   {
     "name": "Smithwick’s",
     "category": "Bottles & Cans",
     "kind": "Beer",
     "description": "Ask your host about the current serving.",
-    "photo": "photo-smithwicks.jpg"
+    "image": "photo-smithwicks.jpg"
   },
   {
     "name": "Guinness 0.0",
     "category": "Bottles & Cans",
     "kind": "Beer",
     "description": "Ask your host about the current serving.",
-    "photo": "photo-guinness-0-0.jpg"
+    "image": "photo-guinness-0-0.jpg"
   },
   {
     "name": "Fiddlehead IPA",
     "category": "Bottles & Cans",
     "kind": "Beer",
     "description": "Ask your host about the current serving.",
-    "photo": "photo-fiddlehead-ipa.jpg"
+    "image": "photo-fiddlehead-ipa.jpg"
   },
   {
     "name": "Samuel Adams OctoberFest",
     "category": "Bottles & Cans",
     "kind": "Beer",
     "description": "Ask your host about the current serving.",
-    "photo": "photo-samuel-adams-octoberfest.jpg"
+    "image": "photo-samuel-adams-octoberfest.jpg"
   },
   {
     "name": "Blue Moon Belgian White",
     "category": "Bottles & Cans",
     "kind": "Beer",
     "description": "Ask your host about the current serving.",
-    "photo": "photo-blue-moon-belgian-white.jpg"
+    "image": "photo-blue-moon-belgian-white.jpg"
   },
   {
     "name": "Newburyport Pale Ale",
     "category": "Bottles & Cans",
     "kind": "Beer",
     "description": "Ask your host about the current serving.",
-    "photo": "photo-newburyport-pale-ale.jpg"
+    "image": "photo-newburyport-pale-ale.jpg"
   },
   {
     "name": "Athletic Brewing (variety to confirm)",
     "category": "Bottles & Cans",
     "kind": "Beer",
     "description": "Ask your host about the current serving.",
-    "photo": "photo-athletic-brewing.jpg"
+    "image": "photo-athletic-brewing.jpg"
   },
   {
     "name": "Switchback Ale",
     "category": "Bottles & Cans",
     "kind": "Beer",
     "description": "Ask your host about the current serving.",
-    "photo": "photo-switchback-ale.jpg"
+    "image": "photo-switchback-ale.jpg"
   },
   {
     "name": "Aperture Peach Tea & Vodka",
     "category": "Canned Cocktails",
     "kind": "Ready to drink",
     "description": "Chilled and ready to enjoy.",
-    "photo": "photo-aperture-peach-tea-and-vodka.jpg"
+    "image": "photo-aperture-peach-tea-and-vodka.jpg"
   },
   {
     "name": "Sun Cruiser Iced Tea Vodka",
     "category": "Canned Cocktails",
     "kind": "Ready to drink",
     "description": "Chilled and ready to enjoy.",
-    "photo": "photo-sun-cruiser-iced-tea-vodka.jpg"
+    "image": "photo-sun-cruiser-iced-tea-vodka.jpg"
   },
   {
     "name": "Whitehaven Sauvignon Blanc",
     "category": "White Wine",
     "kind": "Wine",
     "description": "A refreshing white wine.",
-    "photo": "photo-whitehaven-sauvignon-blanc.jpg"
+    "image": "photo-whitehaven-sauvignon-blanc.jpg"
   },
   {
     "name": "Josh Pinot Grigio",
     "category": "White Wine",
     "kind": "Wine",
     "description": "A refreshing white wine.",
-    "photo": "photo-josh-pinot-grigio.jpg"
+    "image": "photo-josh-pinot-grigio.jpg"
   },
   {
     "name": "Josh Merlot",
     "category": "Red Wine",
     "kind": "Wine",
     "description": "A red wine from our cellar.",
-    "photo": "photo-josh-merlot.jpg"
+    "image": "photo-josh-merlot.jpg"
   },
   {
     "name": "Chateau Ste. Michelle Merlot",
     "category": "Red Wine",
     "kind": "Wine",
     "description": "A red wine from our cellar.",
-    "photo": "photo-chateau-ste-michelle-merlot.jpg"
+    "image": "photo-chateau-ste-michelle-merlot.jpg"
   },
   {
     "name": "Apothic Red",
     "category": "Red Wine",
     "kind": "Wine",
     "description": "A red wine from our cellar.",
-    "photo": "photo-apothic-red.jpg"
+    "image": "photo-apothic-red.jpg"
   },
   {
     "name": "Lisa Toscana Blend 2018",
     "category": "Red Wine",
     "kind": "Wine",
     "description": "A red wine from our cellar.",
-    "photo": "photo-lisa-toscana-blend-2018.jpg"
+    "image": "photo-lisa-toscana-blend-2018.jpg"
   },
   {
     "name": "La Marca Prosecco",
     "category": "Sparkling Wine",
     "kind": "Sparkling",
     "description": "Bright, bubbly Italian sparkling wine.",
-    "photo": "photo-la-marca-prosecco.jpg"
+    "image": "photo-la-marca-prosecco.jpg"
   },
   {
     "name": "The Irishman Single Malt",
     "category": "Irish Whiskey",
     "kind": "Whiskey",
     "description": "Enjoy neat, on the rocks, or as you prefer.",
-    "photo": "photo-the-irishman-single-malt.jpg"
+    "image": "photo-the-irishman-single-malt.jpg"
   },
   {
     "name": "Jameson Original Triple Distilled",
     "category": "Irish Whiskey",
     "kind": "Whiskey",
     "description": "Enjoy neat, on the rocks, or as you prefer.",
-    "photo": "photo-jameson-original-triple-distilled.jpg"
+    "image": "photo-jameson-original-triple-distilled.jpg"
   },
   {
     "name": "Redbreast Irish Whiskey",
     "category": "Irish Whiskey",
     "kind": "Whiskey",
     "description": "Enjoy neat, on the rocks, or as you prefer.",
-    "photo": "photo-redbreast-irish-whiskey.jpg"
+    "image": "photo-redbreast-irish-whiskey.jpg"
   },
   {
     "name": "Egan’s Irish Whiskey",
     "category": "Irish Whiskey",
     "kind": "Whiskey",
     "description": "Enjoy neat, on the rocks, or as you prefer.",
-    "photo": "photo-egans-irish-whiskey.jpg"
+    "image": "photo-egans-irish-whiskey.jpg"
   },
   {
     "name": "Jameson Black Barrel",
     "category": "Irish Whiskey",
     "kind": "Whiskey",
     "description": "Enjoy neat, on the rocks, or as you prefer.",
-    "photo": "photo-jameson-black-barrel.jpg"
+    "image": "photo-jameson-black-barrel.jpg"
   },
   {
     "name": "Writers’ Tears",
     "category": "Irish Whiskey",
     "kind": "Whiskey",
     "description": "Enjoy neat, on the rocks, or as you prefer.",
-    "photo": "photo-writers-tears.jpg"
+    "image": "photo-writers-tears.jpg"
   },
   {
     "name": "Maker’s Mark",
     "category": "Bourbon & American",
     "kind": "Whiskey",
     "description": "A fine pour from the whiskey shelf.",
-    "photo": "photo-makers-mark.jpg"
+    "image": "photo-makers-mark.jpg"
   },
   {
     "name": "Basil Hayden",
     "category": "Bourbon & American",
     "kind": "Whiskey",
     "description": "A fine pour from the whiskey shelf.",
-    "photo": "photo-basil-hayden.jpg"
+    "image": "photo-basil-hayden.jpg"
   },
   {
     "name": "Jefferson’s Reserve",
     "category": "Bourbon & American",
     "kind": "Whiskey",
     "description": "A fine pour from the whiskey shelf.",
-    "photo": "photo-jeffersons-reserve.jpg"
+    "image": "photo-jeffersons-reserve.jpg"
   },
   {
     "name": "Woodford Reserve",
     "category": "Bourbon & American",
     "kind": "Whiskey",
     "description": "A fine pour from the whiskey shelf.",
-    "photo": "photo-woodford-reserve.jpg"
+    "image": "photo-woodford-reserve.jpg"
   },
   {
     "name": "Michter’s",
     "category": "Bourbon & American",
     "kind": "Whiskey",
     "description": "A fine pour from the whiskey shelf.",
-    "photo": "photo-michters.jpg"
+    "image": "photo-michters.jpg"
   },
   {
     "name": "Four Roses Small Batch",
     "category": "Bourbon & American",
     "kind": "Whiskey",
     "description": "A fine pour from the whiskey shelf.",
-    "photo": "photo-four-roses-small-batch.jpg"
+    "image": "photo-four-roses-small-batch.jpg"
   },
   {
     "name": "Larceny Bourbon",
     "category": "Bourbon & American",
     "kind": "Whiskey",
     "description": "A fine pour from the whiskey shelf.",
-    "photo": "photo-larceny-bourbon.jpg"
+    "image": "photo-larceny-bourbon.jpg"
   },
   {
     "name": "WhistlePig PiggyBack 6 Year",
     "category": "Rye Whiskey",
     "kind": "Rye",
     "description": "Bold rye character.",
-    "photo": "photo-whistlepig-piggyback-6-year.jpg"
+    "image": "photo-whistlepig-piggyback-6-year.jpg"
   },
   {
     "name": "The Balvenie DoubleWood 12 Year",
     "category": "Scotch Whisky",
     "kind": "Scotch",
     "description": "A distinguished single malt selection.",
-    "photo": "photo-the-balvenie-doublewood-12-year.jpg"
+    "image": "photo-the-balvenie-doublewood-12-year.jpg"
   },
   {
     "name": "Auchentoshan Single Malt",
     "category": "Scotch Whisky",
     "kind": "Scotch",
     "description": "A distinguished single malt selection.",
-    "photo": "photo-auchentoshan-single-malt.jpg"
+    "image": "photo-auchentoshan-single-malt.jpg"
   },
   {
     "name": "Oban 14 Year",
     "category": "Scotch Whisky",
     "kind": "Scotch",
     "description": "A distinguished single malt selection.",
-    "photo": "photo-oban-14-year.jpg"
+    "image": "photo-oban-14-year.jpg"
   },
   {
     "name": "Tito’s Handmade Vodka",
     "category": "Vodka, Gin & Rum",
     "kind": "Spirits",
     "description": "Available for your favorite mixed drink.",
-    "photo": "photo-titos-handmade-vodka.jpg"
+    "image": "photo-titos-handmade-vodka.jpg"
   },
   {
     "name": "Hendrick’s Gin",
     "category": "Vodka, Gin & Rum",
     "kind": "Spirits",
     "description": "Available for your favorite mixed drink.",
-    "photo": "photo-hendricks-gin.jpg"
+    "image": "photo-hendricks-gin.jpg"
   },
   {
     "name": "Tanqueray Gin",
     "category": "Vodka, Gin & Rum",
     "kind": "Spirits",
     "description": "Available for your favorite mixed drink.",
-    "photo": "photo-tanqueray-gin.jpg"
+    "image": "photo-tanqueray-gin.jpg"
   },
   {
     "name": "Captain Morgan Spiced Rum",
     "category": "Vodka, Gin & Rum",
     "kind": "Spirits",
     "description": "Available for your favorite mixed drink.",
-    "photo": "photo-captain-morgan-spiced-rum.jpg"
+    "image": "photo-captain-morgan-spiced-rum.jpg"
   },
   {
     "name": "Frangelico",
     "category": "Liqueurs",
     "kind": "After dinner",
     "description": "A little something after dinner.",
-    "photo": "photo-frangelico.jpg"
+    "image": "photo-frangelico.jpg"
   },
   {
     "name": "Baileys Irish Cream",
     "category": "Liqueurs",
     "kind": "After dinner",
     "description": "A little something after dinner.",
-    "photo": "photo-baileys-irish-cream.jpg"
+    "image": "photo-baileys-irish-cream.jpg"
   },
   {
     "name": "Kahlúa",
     "category": "Liqueurs",
     "kind": "After dinner",
     "description": "A little something after dinner.",
-    "photo": "photo-kahlua.jpg"
+    "image": "photo-kahlua.jpg"
   },
   {
     "name": "Amaretto",
     "category": "Liqueurs",
     "kind": "After dinner",
     "description": "A little something after dinner.",
-    "photo": "photo-amaretto.jpg"
+    "image": "photo-amaretto.jpg"
   },
   {
     "name": "Grand Marnier",
     "category": "Liqueurs",
     "kind": "After dinner",
     "description": "A little something after dinner.",
-    "photo": "photo-grand-marnier.jpg"
+    "image": "photo-grand-marnier.jpg"
   },
   {
     "name": "Gin & Tonic",
@@ -320,7 +320,7 @@
     "kind": "Crisp & refreshing",
     "description": "A house favorite, made fresh to order.",
     "ingredients": "Gin, tonic water, lime",
-    "photo": "photo-gin-and-tonic.jpg"
+    "image": "photo-gin-and-tonic.jpg"
   },
   {
     "name": "Pistachio Martini",
@@ -328,7 +328,7 @@
     "kind": "Sweet & creamy",
     "description": "A house favorite, made fresh to order.",
     "ingredients": "Vodka, pistachio ingredients, creamy ingredients",
-    "photo": "photo-pistachio-martini.jpg"
+    "image": "photo-pistachio-martini.jpg"
   },
   {
     "name": "Vodka Soda",
@@ -336,7 +336,7 @@
     "kind": "Crisp & refreshing",
     "description": "A house favorite, made fresh to order.",
     "ingredients": "Vodka, soda water, lime",
-    "photo": "photo-vodka-soda.jpg"
+    "image": "photo-vodka-soda.jpg"
   },
   {
     "name": "White Russian",
@@ -344,7 +344,7 @@
     "kind": "Sweet & creamy",
     "description": "A house favorite, made fresh to order.",
     "ingredients": "Vodka, Kahlúa, cream",
-    "photo": "photo-white-russian.jpg"
+    "image": "photo-white-russian.jpg"
   },
   {
     "name": "Martini",
@@ -352,7 +352,7 @@
     "kind": "Spirit-forward",
     "description": "A house favorite, made fresh to order.",
     "ingredients": "Gin or vodka, dry vermouth, olive or lemon twist",
-    "photo": "photo-martini.jpg"
+    "image": "photo-martini.jpg"
   },
   {
     "name": "Cosmopolitan",
@@ -360,7 +360,7 @@
     "kind": "Citrusy",
     "description": "A house favorite, made fresh to order.",
     "ingredients": "Vodka, cranberry juice, orange liqueur, lime",
-    "photo": "photo-cosmopolitan.jpg"
+    "image": "photo-cosmopolitan.jpg"
   },
   {
     "name": "Margarita",
@@ -368,7 +368,7 @@
     "kind": "Citrusy",
     "description": "A house favorite, made fresh to order.",
     "ingredients": "Tequila, lime juice, orange liqueur, optional salted rim",
-    "photo": "photo-margarita.jpg"
+    "image": "photo-margarita.jpg"
   },
   {
     "name": "Old Fashioned",
@@ -376,7 +376,7 @@
     "kind": "Spirit-forward",
     "description": "A house favorite, made fresh to order.",
     "ingredients": "Bourbon or rye, sugar, Angostura bitters, orange peel",
-    "photo": "photo-old-fashioned.jpg"
+    "image": "photo-old-fashioned.jpg"
   },
   {
     "name": "Mojito",
@@ -384,7 +384,7 @@
     "kind": "Crisp & refreshing",
     "description": "A house favorite, made fresh to order.",
     "ingredients": "White rum, mint, lime, sugar, soda water",
-    "photo": "photo-mojito.jpg"
+    "image": "photo-mojito.jpg"
   },
   {
     "name": "Moscow Mule",
@@ -392,7 +392,7 @@
     "kind": "Crisp & refreshing",
     "description": "A house favorite, made fresh to order.",
     "ingredients": "Vodka, ginger beer, lime",
-    "photo": "photo-moscow-mule.jpg"
+    "image": "photo-moscow-mule.jpg"
   },
   {
     "name": "Negroni",
@@ -400,7 +400,7 @@
     "kind": "Spirit-forward",
     "description": "A house favorite, made fresh to order.",
     "ingredients": "Gin, Campari, sweet vermouth, orange peel",
-    "photo": "photo-negroni.jpg"
+    "image": "photo-negroni.jpg"
   },
   {
     "name": "Espresso Martini",
@@ -408,7 +408,7 @@
     "kind": "Sweet & creamy",
     "description": "A house favorite, made fresh to order.",
     "ingredients": "Vodka, coffee liqueur, fresh espresso",
-    "photo": "photo-espresso-martini.jpg"
+    "image": "photo-espresso-martini.jpg"
   },
   {
     "name": "Whiskey Sour",
@@ -416,7 +416,7 @@
     "kind": "Citrusy",
     "description": "A house favorite, made fresh to order.",
     "ingredients": "Whiskey, lemon juice, simple syrup, optional egg white",
-    "photo": "photo-whiskey-sour.jpg"
+    "image": "photo-whiskey-sour.jpg"
   },
   {
     "name": "Aperol Spritz",
@@ -424,7 +424,7 @@
     "kind": "Crisp & refreshing",
     "description": "A house favorite, made fresh to order.",
     "ingredients": "Aperol, prosecco, soda water, orange slice",
-    "photo": "photo-aperol-spritz.jpg"
+    "image": "photo-aperol-spritz.jpg"
   },
   {
     "name": "Paloma",
@@ -432,6 +432,6 @@
     "kind": "Citrusy",
     "description": "A house favorite, made fresh to order.",
     "ingredients": "Tequila, grapefruit soda or grapefruit juice and soda, lime",
-    "photo": "photo-paloma.jpg"
+    "image": "photo-paloma.jpg"
   }
 ]
