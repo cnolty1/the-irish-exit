@@ -1,0 +1,91 @@
+THE IRISH EXIT — PHOTO FILE NAMES
+
+Name each photo EXACTLY as shown (all lowercase, ending in .jpg)
+and upload it to the top level of the repository, next to index.html.
+Any drink without a photo keeps showing its symbol, so you can add photos a few at a time.
+
+ON DRAUGHT
+  photo-guinness-draught.jpg                       Guinness Draught
+
+BOTTLES & CANS
+  photo-corona-light.jpg                           Corona Light
+  photo-smithwicks.jpg                             Smithwick’s
+  photo-guinness-0-0.jpg                           Guinness 0.0
+  photo-fiddlehead-ipa.jpg                         Fiddlehead IPA
+  photo-samuel-adams-octoberfest.jpg               Samuel Adams OctoberFest
+  photo-blue-moon-belgian-white.jpg                Blue Moon Belgian White
+  photo-newburyport-pale-ale.jpg                   Newburyport Pale Ale
+  photo-athletic-brewing.jpg                       Athletic Brewing (variety to confirm)
+  photo-switchback-ale.jpg                         Switchback Ale
+
+CANNED COCKTAILS
+  photo-aperture-peach-tea-and-vodka.jpg           Aperture Peach Tea & Vodka
+  photo-sun-cruiser-iced-tea-vodka.jpg             Sun Cruiser Iced Tea Vodka
+
+WHITE WINE
+  photo-whitehaven-sauvignon-blanc.jpg             Whitehaven Sauvignon Blanc
+  photo-josh-pinot-grigio.jpg                      Josh Pinot Grigio
+
+RED WINE
+  photo-josh-merlot.jpg                            Josh Merlot
+  photo-chateau-ste-michelle-merlot.jpg            Chateau Ste. Michelle Merlot
+  photo-apothic-red.jpg                            Apothic Red
+  photo-lisa-toscana-blend-2018.jpg                Lisa Toscana Blend 2018
+
+SPARKLING WINE
+  photo-la-marca-prosecco.jpg                      La Marca Prosecco
+
+IRISH WHISKEY
+  photo-the-irishman-single-malt.jpg               The Irishman Single Malt
+  photo-jameson-original-triple-distilled.jpg      Jameson Original Triple Distilled
+  photo-redbreast-irish-whiskey.jpg                Redbreast Irish Whiskey
+  photo-egans-irish-whiskey.jpg                    Egan’s Irish Whiskey
+  photo-jameson-black-barrel.jpg                   Jameson Black Barrel
+  photo-writers-tears.jpg                          Writers’ Tears
+
+BOURBON & AMERICAN
+  photo-makers-mark.jpg                            Maker’s Mark
+  photo-basil-hayden.jpg                           Basil Hayden
+  photo-jeffersons-reserve.jpg                     Jefferson’s Reserve
+  photo-woodford-reserve.jpg                       Woodford Reserve
+  photo-michters.jpg                               Michter’s
+  photo-four-roses-small-batch.jpg                 Four Roses Small Batch
+  photo-larceny-bourbon.jpg                        Larceny Bourbon
+
+RYE WHISKEY
+  photo-whistlepig-piggyback-6-year.jpg            WhistlePig PiggyBack 6 Year
+
+SCOTCH WHISKY
+  photo-the-balvenie-doublewood-12-year.jpg        The Balvenie DoubleWood 12 Year
+  photo-auchentoshan-single-malt.jpg               Auchentoshan Single Malt
+  photo-oban-14-year.jpg                           Oban 14 Year
+
+VODKA, GIN & RUM
+  photo-titos-handmade-vodka.jpg                   Tito’s Handmade Vodka
+  photo-hendricks-gin.jpg                          Hendrick’s Gin
+  photo-tanqueray-gin.jpg                          Tanqueray Gin
+  photo-captain-morgan-spiced-rum.jpg              Captain Morgan Spiced Rum
+
+LIQUEURS
+  photo-frangelico.jpg                             Frangelico
+  photo-baileys-irish-cream.jpg                    Baileys Irish Cream
+  photo-kahlua.jpg                                 Kahlúa
+  photo-amaretto.jpg                               Amaretto
+  photo-grand-marnier.jpg                          Grand Marnier
+
+COCKTAILS
+  photo-gin-and-tonic.jpg                          Gin & Tonic
+  photo-pistachio-martini.jpg                      Pistachio Martini
+  photo-vodka-soda.jpg                             Vodka Soda
+  photo-white-russian.jpg                          White Russian
+  photo-martini.jpg                                Martini
+  photo-cosmopolitan.jpg                           Cosmopolitan
+  photo-margarita.jpg                              Margarita
+  photo-old-fashioned.jpg                          Old Fashioned
+  photo-mojito.jpg                                 Mojito
+  photo-moscow-mule.jpg                            Moscow Mule
+  photo-negroni.jpg                                Negroni
+  photo-espresso-martini.jpg                       Espresso Martini
+  photo-whiskey-sour.jpg                           Whiskey Sour
+  photo-aperol-spritz.jpg                          Aperol Spritz
+  photo-paloma.jpg                                 Paloma

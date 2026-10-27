@@ -12,5 +12,10 @@ THE IRISH EXIT — INSTALLATION
 To update inventory: edit drinks.json, commit changes, reconnect tablet, and reload online.
 If a device still displays an old version, change the CACHE value in sw.js from irish-exit-v1 to irish-exit-v2 before publishing.
 
-NOTE: This first version uses offline-safe illustrative drink symbols rather than product photos. No guest-facing recipes or measurements are included. Fonts fall back to local fonts offline.
+PHOTOS (v2): Each drink can show a photo. See PHOTO-LIST.txt for the exact file name for every drink.
+Upload photos to the repository root (next to index.html). Drinks without a photo keep their symbol.
+Photos are saved for offline use after the tablet loads the menu once while online.
+If you REPLACE a photo using the same file name, bump the CACHE value in sw.js (e.g. irish-exit-v3) so tablets pick it up.
+
+NOTE: No guest-facing recipes or measurements are included. Fonts fall back to local fonts offline.
 GitHub Pages public repositories are publicly visible; don't include personal information.
