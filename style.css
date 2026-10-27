@@ -3,3 +3,6 @@
 
 /* Version 2: individual drink photography */
 .drink{padding:10px 10px 15px;justify-content:flex-start;min-height:215px}.drink-photo{display:block;width:100%;height:140px;object-fit:contain;background:#f5f2ea;border-radius:7px}.drink strong{font-size:21px;margin-top:3px}.drink small{font-size:9px}.drink-art{padding:14px 0 8px;font-size:inherit;text-shadow:none}.drink-art img{width:min(100%,260px);height:260px;object-fit:contain;background:#f5f2ea;border-radius:10px}.modal{overflow-y:auto;max-height:90dvh}@media(max-width:420px){.drink-photo{height:125px}.drink{min-height:200px}.drink strong{font-size:19px}}
+
+/* V3: honest image status and source link */
+.photo-note{display:block;color:#ded9ca;font:11px Arial,sans-serif;line-height:1.4;margin:5px 0}.drink .photo-note{font-size:10px}footer a{color:#d8b875;letter-spacing:0}
