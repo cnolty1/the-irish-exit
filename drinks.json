@@ -1,0 +1,377 @@
+[
+  {
+    "name": "Guinness Draught",
+    "category": "On Draught",
+    "kind": "Irish dry stout",
+    "description": "Creamy, smooth Irish stout with roasted malt notes."
+  },
+  {
+    "name": "Corona Light",
+    "category": "Bottles & Cans",
+    "kind": "Beer",
+    "description": "Ask your host about the current serving."
+  },
+  {
+    "name": "Smithwick’s",
+    "category": "Bottles & Cans",
+    "kind": "Beer",
+    "description": "Ask your host about the current serving."
+  },
+  {
+    "name": "Guinness 0.0",
+    "category": "Bottles & Cans",
+    "kind": "Beer",
+    "description": "Ask your host about the current serving."
+  },
+  {
+    "name": "Fiddlehead IPA",
+    "category": "Bottles & Cans",
+    "kind": "Beer",
+    "description": "Ask your host about the current serving."
+  },
+  {
+    "name": "Samuel Adams OctoberFest",
+    "category": "Bottles & Cans",
+    "kind": "Beer",
+    "description": "Ask your host about the current serving."
+  },
+  {
+    "name": "Blue Moon Belgian White",
+    "category": "Bottles & Cans",
+    "kind": "Beer",
+    "description": "Ask your host about the current serving."
+  },
+  {
+    "name": "Newburyport Pale Ale",
+    "category": "Bottles & Cans",
+    "kind": "Beer",
+    "description": "Ask your host about the current serving."
+  },
+  {
+    "name": "Athletic Brewing (variety to confirm)",
+    "category": "Bottles & Cans",
+    "kind": "Beer",
+    "description": "Ask your host about the current serving."
+  },
+  {
+    "name": "Switchback Ale",
+    "category": "Bottles & Cans",
+    "kind": "Beer",
+    "description": "Ask your host about the current serving."
+  },
+  {
+    "name": "Aperture Peach Tea & Vodka",
+    "category": "Canned Cocktails",
+    "kind": "Ready to drink",
+    "description": "Chilled and ready to enjoy."
+  },
+  {
+    "name": "Sun Cruiser Iced Tea Vodka",
+    "category": "Canned Cocktails",
+    "kind": "Ready to drink",
+    "description": "Chilled and ready to enjoy."
+  },
+  {
+    "name": "Whitehaven Sauvignon Blanc",
+    "category": "White Wine",
+    "kind": "Wine",
+    "description": "A refreshing white wine."
+  },
+  {
+    "name": "Josh Pinot Grigio",
+    "category": "White Wine",
+    "kind": "Wine",
+    "description": "A refreshing white wine."
+  },
+  {
+    "name": "Josh Merlot",
+    "category": "Red Wine",
+    "kind": "Wine",
+    "description": "A red wine from our cellar."
+  },
+  {
+    "name": "Chateau Ste. Michelle Merlot",
+    "category": "Red Wine",
+    "kind": "Wine",
+    "description": "A red wine from our cellar."
+  },
+  {
+    "name": "Apothic Red",
+    "category": "Red Wine",
+    "kind": "Wine",
+    "description": "A red wine from our cellar."
+  },
+  {
+    "name": "Lisa Toscana Blend 2018",
+    "category": "Red Wine",
+    "kind": "Wine",
+    "description": "A red wine from our cellar."
+  },
+  {
+    "name": "La Marca Prosecco",
+    "category": "Sparkling Wine",
+    "kind": "Sparkling",
+    "description": "Bright, bubbly Italian sparkling wine."
+  },
+  {
+    "name": "The Irishman Single Malt",
+    "category": "Irish Whiskey",
+    "kind": "Whiskey",
+    "description": "Enjoy neat, on the rocks, or as you prefer."
+  },
+  {
+    "name": "Jameson Original Triple Distilled",
+    "category": "Irish Whiskey",
+    "kind": "Whiskey",
+    "description": "Enjoy neat, on the rocks, or as you prefer."
+  },
+  {
+    "name": "Redbreast Irish Whiskey",
+    "category": "Irish Whiskey",
+    "kind": "Whiskey",
+    "description": "Enjoy neat, on the rocks, or as you prefer."
+  },
+  {
+    "name": "Egan’s Irish Whiskey",
+    "category": "Irish Whiskey",
+    "kind": "Whiskey",
+    "description": "Enjoy neat, on the rocks, or as you prefer."
+  },
+  {
+    "name": "Jameson Black Barrel",
+    "category": "Irish Whiskey",
+    "kind": "Whiskey",
+    "description": "Enjoy neat, on the rocks, or as you prefer."
+  },
+  {
+    "name": "Writers’ Tears",
+    "category": "Irish Whiskey",
+    "kind": "Whiskey",
+    "description": "Enjoy neat, on the rocks, or as you prefer."
+  },
+  {
+    "name": "Maker’s Mark",
+    "category": "Bourbon & American",
+    "kind": "Whiskey",
+    "description": "A fine pour from the whiskey shelf."
+  },
+  {
+    "name": "Basil Hayden",
+    "category": "Bourbon & American",
+    "kind": "Whiskey",
+    "description": "A fine pour from the whiskey shelf."
+  },
+  {
+    "name": "Jefferson’s Reserve",
+    "category": "Bourbon & American",
+    "kind": "Whiskey",
+    "description": "A fine pour from the whiskey shelf."
+  },
+  {
+    "name": "Woodford Reserve",
+    "category": "Bourbon & American",
+    "kind": "Whiskey",
+    "description": "A fine pour from the whiskey shelf."
+  },
+  {
+    "name": "Michter’s",
+    "category": "Bourbon & American",
+    "kind": "Whiskey",
+    "description": "A fine pour from the whiskey shelf."
+  },
+  {
+    "name": "Four Roses Small Batch",
+    "category": "Bourbon & American",
+    "kind": "Whiskey",
+    "description": "A fine pour from the whiskey shelf."
+  },
+  {
+    "name": "Larceny Bourbon",
+    "category": "Bourbon & American",
+    "kind": "Whiskey",
+    "description": "A fine pour from the whiskey shelf."
+  },
+  {
+    "name": "WhistlePig PiggyBack 6 Year",
+    "category": "Rye Whiskey",
+    "kind": "Rye",
+    "description": "Bold rye character."
+  },
+  {
+    "name": "The Balvenie DoubleWood 12 Year",
+    "category": "Scotch Whisky",
+    "kind": "Scotch",
+    "description": "A distinguished single malt selection."
+  },
+  {
+    "name": "Auchentoshan Single Malt",
+    "category": "Scotch Whisky",
+    "kind": "Scotch",
+    "description": "A distinguished single malt selection."
+  },
+  {
+    "name": "Oban 14 Year",
+    "category": "Scotch Whisky",
+    "kind": "Scotch",
+    "description": "A distinguished single malt selection."
+  },
+  {
+    "name": "Tito’s Handmade Vodka",
+    "category": "Vodka, Gin & Rum",
+    "kind": "Spirits",
+    "description": "Available for your favorite mixed drink."
+  },
+  {
+    "name": "Hendrick’s Gin",
+    "category": "Vodka, Gin & Rum",
+    "kind": "Spirits",
+    "description": "Available for your favorite mixed drink."
+  },
+  {
+    "name": "Tanqueray Gin",
+    "category": "Vodka, Gin & Rum",
+    "kind": "Spirits",
+    "description": "Available for your favorite mixed drink."
+  },
+  {
+    "name": "Captain Morgan Spiced Rum",
+    "category": "Vodka, Gin & Rum",
+    "kind": "Spirits",
+    "description": "Available for your favorite mixed drink."
+  },
+  {
+    "name": "Frangelico",
+    "category": "Liqueurs",
+    "kind": "After dinner",
+    "description": "A little something after dinner."
+  },
+  {
+    "name": "Baileys Irish Cream",
+    "category": "Liqueurs",
+    "kind": "After dinner",
+    "description": "A little something after dinner."
+  },
+  {
+    "name": "Kahlúa",
+    "category": "Liqueurs",
+    "kind": "After dinner",
+    "description": "A little something after dinner."
+  },
+  {
+    "name": "Amaretto",
+    "category": "Liqueurs",
+    "kind": "After dinner",
+    "description": "A little something after dinner."
+  },
+  {
+    "name": "Grand Marnier",
+    "category": "Liqueurs",
+    "kind": "After dinner",
+    "description": "A little something after dinner."
+  },
+  {
+    "name": "Gin & Tonic",
+    "category": "Cocktails",
+    "kind": "Crisp & refreshing",
+    "description": "A house favorite, made fresh to order.",
+    "ingredients": "Gin, tonic water, lime"
+  },
+  {
+    "name": "Pistachio Martini",
+    "category": "Cocktails",
+    "kind": "Sweet & creamy",
+    "description": "A house favorite, made fresh to order.",
+    "ingredients": "Vodka, pistachio ingredients, creamy ingredients"
+  },
+  {
+    "name": "Vodka Soda",
+    "category": "Cocktails",
+    "kind": "Crisp & refreshing",
+    "description": "A house favorite, made fresh to order.",
+    "ingredients": "Vodka, soda water, lime"
+  },
+  {
+    "name": "White Russian",
+    "category": "Cocktails",
+    "kind": "Sweet & creamy",
+    "description": "A house favorite, made fresh to order.",
+    "ingredients": "Vodka, Kahlúa, cream"
+  },
+  {
+    "name": "Martini",
+    "category": "Cocktails",
+    "kind": "Spirit-forward",
+    "description": "A house favorite, made fresh to order.",
+    "ingredients": "Gin or vodka, dry vermouth, olive or lemon twist"
+  },
+  {
+    "name": "Cosmopolitan",
+    "category": "Cocktails",
+    "kind": "Citrusy",
+    "description": "A house favorite, made fresh to order.",
+    "ingredients": "Vodka, cranberry juice, orange liqueur, lime"
+  },
+  {
+    "name": "Margarita",
+    "category": "Cocktails",
+    "kind": "Citrusy",
+    "description": "A house favorite, made fresh to order.",
+    "ingredients": "Tequila, lime juice, orange liqueur, optional salted rim"
+  },
+  {
+    "name": "Old Fashioned",
+    "category": "Cocktails",
+    "kind": "Spirit-forward",
+    "description": "A house favorite, made fresh to order.",
+    "ingredients": "Bourbon or rye, sugar, Angostura bitters, orange peel"
+  },
+  {
+    "name": "Mojito",
+    "category": "Cocktails",
+    "kind": "Crisp & refreshing",
+    "description": "A house favorite, made fresh to order.",
+    "ingredients": "White rum, mint, lime, sugar, soda water"
+  },
+  {
+    "name": "Moscow Mule",
+    "category": "Cocktails",
+    "kind": "Crisp & refreshing",
+    "description": "A house favorite, made fresh to order.",
+    "ingredients": "Vodka, ginger beer, lime"
+  },
+  {
+    "name": "Negroni",
+    "category": "Cocktails",
+    "kind": "Spirit-forward",
+    "description": "A house favorite, made fresh to order.",
+    "ingredients": "Gin, Campari, sweet vermouth, orange peel"
+  },
+  {
+    "name": "Espresso Martini",
+    "category": "Cocktails",
+    "kind": "Sweet & creamy",
+    "description": "A house favorite, made fresh to order.",
+    "ingredients": "Vodka, coffee liqueur, fresh espresso"
+  },
+  {
+    "name": "Whiskey Sour",
+    "category": "Cocktails",
+    "kind": "Citrusy",
+    "description": "A house favorite, made fresh to order.",
+    "ingredients": "Whiskey, lemon juice, simple syrup, optional egg white"
+  },
+  {
+    "name": "Aperol Spritz",
+    "category": "Cocktails",
+    "kind": "Crisp & refreshing",
+    "description": "A house favorite, made fresh to order.",
+    "ingredients": "Aperol, prosecco, soda water, orange slice"
+  },
+  {
+    "name": "Paloma",
+    "category": "Cocktails",
+    "kind": "Citrusy",
+    "description": "A house favorite, made fresh to order.",
+    "ingredients": "Tequila, grapefruit soda or grapefruit juice and soda, lime"
+  }
+]
